@@ -1,7 +1,9 @@
 # A-star-Path-Finding-Algo
 
 
-## Finds the shortest path between source and destination 
+## Finds the shortest path between source and destination
+
+User can specify the source, destination and obstacles. The program will graphically show the shortest path.
 
 Here purple line shows the shortest path from source to destination
 <br>
